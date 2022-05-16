@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class BlOCKBUSTER {
+public class BLOCKBUSTER {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner (System.in);
